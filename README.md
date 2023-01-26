@@ -4,7 +4,7 @@ The dataset used to train the models is the entirety of Guayaki's instagram page
 # Labeling
 To label the dataset I used Azure's dataset labeling tool because of it's freeness and cool advertised auto-labeling feature where it generates its own models and predicts labels as you go.
 
-That was a complete lie. While the labeling web tool works well the ML assistance actually broke the UI and made it impossible to tag any image. This was thrown out and I went back to pure manual tagging. Overall it felt unfinished and I can't recommend anyone use it for serious tasks. For example why on earth do I have to click in the image EACH TIME to use hotkeys, and why can I only have 9 hotkeys that I can't customize whatsoever? (Class and key are chosen for you) Also for the love of god why can I not use hotkeys while zoomed in? I'm suspicious the testing for this web UI was cu
+That was a complete lie. While the labeling web tool works well, the ML assistance actually broke the UI and made it impossible to tag any image. This was thrown out and I went back to pure manual tagging. Overall it felt unfinished and I can't recommend anyone use it for serious tasks. For example why on earth do I have to click in the image EACH TIME to use hotkeys, and why can I only have 9 hotkeys that I can't customize whatsoever? (Class and key are chosen for you) Also for the love of god why can I not use hotkeys while zoomed in? I don't think the devs have ever actually used their website.
 
 Anyways,
 
