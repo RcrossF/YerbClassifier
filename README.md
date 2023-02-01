@@ -40,6 +40,6 @@ Images were labeled with a few rules in mind:
 * Anything that can be identified but doesn't have a class gets assigned Other (eg. a peach bottle is tagged as Bottles/Other)
 * 2 different instances in the same image get tagged (eg. Mint and Lemon cans would be tagged as Cans/Enlightenmint, Cans/Lemon)
 
-Some were pretty easy: https://i.imgur.com/MbH91SV.png
-Should this count?: https://i.imgur.com/t1cE6iM.jpg (No)
+Some were pretty easy: https://i.imgur.com/MbH91SV.png  
+Should this count?: https://i.imgur.com/t1cE6iM.jpg (No)  
 This?: https://i.imgur.com/OQMGMOX.jpg (Yes, I guess...)
