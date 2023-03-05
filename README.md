@@ -4,7 +4,7 @@ The dataset used to train the models is the entirety of Guayaki's instagram page
 # Labeling
 To label the dataset I used Azure's dataset labeling tool because it's free and advertised a cool ml-assisted labeling feature where it generates models on previous predictions and helps predict labels as you go.
 
-That was a complete lie. While the labeling web tool works, the ML assistance actually broke the UI and made it impossible to tag any image. I reported this issue and to Microsoft's credit it was fixed in a week. Overall the UI felt unfinished and I can't recommend anyone use it for serious tasks. For example why on earth do I have to click in the image EACH TIME to use hotkeys, and why can I only have 9 hotkeys that I can't customize whatsoever? (Class and key are chosen for you) Also for the love of god why can I not use hotkeys while zoomed in? I don't think the devs have ever actually used their website.
+Overall the UI felt unfinished and I can't recommend anyone use it for serious tasks. For example why on earth do I have to click in the image EACH TIME to use hotkeys, and why can I only have 9 hotkeys that I can't customize whatsoever?
 
 Anyways,
 
@@ -38,7 +38,7 @@ Images were labeled with a few rules in mind:
 * Tea, stickers, etc do not count
 * If I'm unsure what something is (eg. too blurry but it's definitely a bottle) I pick the base class (Bottle in this case)
 * Anything that can be identified but doesn't have a class gets assigned Other (eg. a peach bottle is tagged as Bottles/Other)
-* 2 different instances in the same image get tagged (eg. Mint and Lemon cans would be tagged as Cans/Enlightenmint, Cans/Lemon)
+* 2 different instances in the same image get tagged (eg. Mint and Lemon cans in the same image would be tagged as Cans/Enlightenmint, Cans/Lemon)
 
 Some were pretty easy: https://i.imgur.com/MbH91SV.png  
 Should this count?: https://i.imgur.com/t1cE6iM.jpg (No)  
