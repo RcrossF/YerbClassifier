@@ -1,3 +1,5 @@
+I made this to get experience with training a model from true scratch. I acquired, manually labeled, and augmented a dataset of ~6000 images and then trained and iterated on many models to get the best performance out of very few samples with a massive class imbalance. Follow along for my adventures in the worlds of deciphering dataset ambiguity, insightful image inspection, and convolutional confusion.
+
 # Dataset Acquisition
 The dataset used to train the models is the entirety of Guayaki's instagram page (https://www.instagram.com/guayaki/) as of November ~30th 2022. 5922 images were scraped using [instaloader](https://instaloader.github.io/)
 
